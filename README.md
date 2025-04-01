@@ -1,16 +1,19 @@
 # Ruby on Rails Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 03/29/2025
+This data is updated weekly, with filled postings removed. Last updated: 04/01/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Ruby on Rails Jobs](https://algojobs.io/jobs/ruby-on-rails)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 04/01/2025 | [Zendesk Internship: Software Engineering (Kraków, Poland)](https://algojobs.io/jobs/3645648) | [Zendesk](https://algojobs.io/company/zendesk/) | N/A | Krakow, Poland |
+| 03/31/2025 | [Ingeniero de Software Asociado](https://algojobs.io/jobs/3640486) | [SimplePractice](https://algojobs.io/company/simplepractice55/) | $30K - $38K | Mexico City |
+| 03/31/2025 | [Associate Software Engineer](https://algojobs.io/jobs/3640487) | [SimplePractice](https://algojobs.io/company/simplepractice55/) | $30K - $38K | Mexico City |
+| 03/31/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3638600) | [Beam Benefits](https://algojobs.io/company/beam-benefits/) | $115K - $184K | Columbus, OH (or Remote) |
+| 03/31/2025 | [Senior Developer](https://algojobs.io/jobs/3643815) | [FactSet](https://algojobs.io/company/factset/) | N/A | Remote - Canada |
 | 03/28/2025 | [Pessoa Engenheira de Software - Tech Lead (vaga exclusiva para mulheres)](https://algojobs.io/jobs/3621412) | [RD Station](https://algojobs.io/company/rdstation/) | N/A | Remoto |
 | 03/28/2025 | [Software Engineer, NYT Cooking - Publishing](https://algojobs.io/jobs/3619639) | [The New York Times](https://algojobs.io/company/thenewyorktimes/) | $104K - $130K | New York, NY |
 | 03/28/2025 | [Software Engineer II](https://algojobs.io/jobs/3620634) | [HashiCorp](https://algojobs.io/company/hashicorp/) | $151K - $178K | United States |
-| 03/28/2025 | [Web Developer](https://algojobs.io/jobs/3633374) | [Global Medical Response](https://algojobs.io/company/gmr/) | N/A | Tallahassee, FL, US |
-| 03/28/2025 | [Web Developer](https://algojobs.io/jobs/3633376) | [Global Medical Response](https://algojobs.io/company/gmr/) | N/A | St. Paul, MN, US |
 | 03/28/2025 | [Software Engineer - Technical Support Specialist](https://algojobs.io/jobs/3618669) | [Everly Health](https://algojobs.io/company/everlywell/) | $105K - $125K | Austin, TX or New York, NY (Hybrid) |
 | 03/28/2025 | [Mid-Level Software Engineer (Product)](https://algojobs.io/jobs/3622479) | [Stora](https://algojobs.io/company/stora/) | N/A | United Kingdom |
 | 03/28/2025 | [Sr Software Developer](https://algojobs.io/jobs/3623103) | [GDIT](https://algojobs.io/company/gdit/) | $106K - $143K | USA FL MacDill AFB, United States of America |
@@ -18,7 +21,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/28/2025 | [Senior Software Developer - Marketing Team](https://algojobs.io/jobs/3618801) | [Jane App](https://algojobs.io/company/janeapp/) | N/A | Canada (Remote) |
 | 03/28/2025 | [Senior Full Stack Developer](https://algojobs.io/jobs/3618102) | [Dane Street, LLC](https://algojobs.io/company/dane-street-llc/) | N/A | United States (Remote) |
 | 03/27/2025 | [Full Stack Software Engineer (Ruby / React)](https://algojobs.io/jobs/3611651) | [Mitratech](https://algojobs.io/company/mitratech/) | N/A | Mitratech India |
-| 03/27/2025 | [Full Stack Software Engineer-TS/SCI with polygraph required](https://algojobs.io/jobs/3633381) | [Logistics Management Institute](https://algojobs.io/company/lmi/) | N/A | McLean, VA, US |
 | 03/27/2025 | [Software Engineer II (Ruby on Rails and Data pipelines)](https://algojobs.io/jobs/3610258) | [Scribd](https://algojobs.io/company/scribd/) | N/A | Remote US Canada |
 | 03/27/2025 | [Software Engineer, Infrastructure Engineering](https://algojobs.io/jobs/3610535) | [StackAdapt](https://algojobs.io/company/stackadapt/) | N/A | United States (Remote) |
 | 03/27/2025 | [Senior Software Engineer, Infrastructure Engineering](https://algojobs.io/jobs/3610532) | [StackAdapt](https://algojobs.io/company/stackadapt/) | N/A | United States (Remote) |
@@ -67,6 +69,7 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 02/27/2025 | [Ruby Software Engineer](https://algojobs.io/jobs/3614093) | [Humanitru](https://algojobs.io/company/humanitru/) | N/A | Humanitru Remote |
 | 02/27/2025 | [Senior Software Developer - Identity](https://algojobs.io/jobs/3401700) | [Jane App](https://algojobs.io/company/janeapp/) | N/A | Canada (Remote) |
 | 02/27/2025 | [Intermediate Front End Software Developer - Patient Communication](https://algojobs.io/jobs/3279969) | [Jane App](https://algojobs.io/company/janeapp/) | N/A | Canada (Remote) |
+| 02/26/2025 | [Senior Fullstack Software Engineer, PTaaS](https://algojobs.io/jobs/3282892) | [HackerOne](https://algojobs.io/company/hackerone/) | $147K - $184K | Seattle |
 | 02/24/2025 | [Senior Full Stack Engineer, Developer Ecosystem](https://algojobs.io/jobs/3242994) | [Calendly](https://algojobs.io/company/calendly/) | $178K - $267K | US (Remote) |
 | 02/24/2025 | [Sr. Software Engineer](https://algojobs.io/jobs/3242064) | [6sense](https://algojobs.io/company/6sense/) | N/A | Singapore, Remote |
 | 02/23/2025 | [Software Developer, Bellevue, Washington](https://algojobs.io/jobs/3241401) | [Xplore Inc.](https://algojobs.io/company/xplore-inc/) | $120K - $140K | Bellevue, Washington, United States |
@@ -92,14 +95,29 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 02/11/2025 | [Staff Software Developer - Telehealth](https://algojobs.io/jobs/3120196) | [Jane App](https://algojobs.io/company/janeapp/) | N/A | Canada (Remote) |
 | 02/10/2025 | [Software Engineer, Capital Markets and Insights](https://algojobs.io/jobs/3106060) | [Upstart](https://algojobs.io/company/upstart/) | $142K - $196K | United States \| Remote |
 | 02/10/2025 | [Senior Fullstack Developer with RoR / Tech Lead](https://algojobs.io/jobs/3103778) | [Netguru](https://algojobs.io/company/netguru/) | N/A | Poland (Remote) |
-| 02/07/2025 | [Software Engineer II](https://algojobs.io/jobs/3100903) | [Global Payments Inc.](https://algojobs.io/company/tsys/) | N/A | Mexico City, CDMX, Mexico |
 | 02/06/2025 | [Software Engineer - SIEM Platform (Ruby/Rails)](https://algojobs.io/jobs/3076368) | [Huntress](https://algojobs.io/company/huntress/) | $140K - $160K | US (Remote) |
 | 02/05/2025 | [Lead Application Developer](https://algojobs.io/jobs/3067371) | [Carenet Health](https://algojobs.io/company/carenethealthcare/) | N/A | Makati City, PH |
+| 02/05/2025 | [Principal Software Engineer - VC Backed Startups](https://algojobs.io/jobs/3310756) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | Remote - No Preference |
+| 02/05/2025 | [Staff Software Engineer - VC Backed Startups](https://algojobs.io/jobs/3310860) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | Remote - No Preference |
+| 02/05/2025 | [Staff Software Engineer - VC Backed Startups](https://algojobs.io/jobs/3310686) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | Bay Area - Hybrid |
+| 02/05/2025 | [Staff Software Engineer - VC Backed Startups](https://algojobs.io/jobs/3310793) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | NYC - Hybrid |
+| 02/05/2025 | [Principal Software Engineer - VC Backed Startups](https://algojobs.io/jobs/3310857) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | Bay Area - Hybrid |
+| 02/05/2025 | [Principal Software Engineer - VC Backed Startups](https://algojobs.io/jobs/3310678) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | NYC - Hybrid |
+| 02/05/2025 | [Staff Backend Software Engineer - VC Backed Startups](https://algojobs.io/jobs/3310830) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | NYC - Hybrid |
+| 02/05/2025 | [Staff Backend Software Engineer - VC Backed Startups](https://algojobs.io/jobs/3310670) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | Bay Area - Hybrid |
+| 02/05/2025 | [Founding Backend Software Engineer - VC Backed Startups (Senior/Staff)](https://algojobs.io/jobs/3310703) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | Remote - No Preference |
+| 02/05/2025 | [Staff Full-Stack Software Engineer - VC Backed Startups](https://algojobs.io/jobs/3310645) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | Remote - No Preference |
+| 02/05/2025 | [Founding Backend Software Engineer - VC Backed Startups (Senior/Staff)](https://algojobs.io/jobs/3310806) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | Bay Area - Hybrid |
+| 02/05/2025 | [Founding Full-Stack Software Engineer - VC Backed Startups (Senior/Staff)](https://algojobs.io/jobs/3310782) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | Remote - No Preference |
+| 02/05/2025 | [Founding Full-Stack Software Engineer - VC Backed Startups (Senior/Staff)](https://algojobs.io/jobs/3310767) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | NYC - Hybrid |
+| 02/05/2025 | [Staff Full-Stack Software Engineer - VC Backed Startups](https://algojobs.io/jobs/3310821) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | NYC - Hybrid |
+| 02/05/2025 | [Founding Backend Software Engineer - VC Backed Startups (Senior/Staff)](https://algojobs.io/jobs/3310849) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | NYC - Hybrid |
+| 02/05/2025 | [Staff Backend Software Engineer - VC Backed Startups](https://algojobs.io/jobs/3310769) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | Remote - No Preference |
+| 02/05/2025 | [Founding Full-Stack Software Engineer - VC Backed Startups (Senior/Staff)](https://algojobs.io/jobs/3310824) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | Bay Area - Hybrid |
+| 02/05/2025 | [Staff Full-Stack Software Engineer - VC Backed Startups](https://algojobs.io/jobs/3310603) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | Bay Area - Hybrid |
 | 02/05/2025 | [Java - Full Stack Developer](https://algojobs.io/jobs/3053541) | [Kyndryl](https://algojobs.io/company/kyndryl/) | N/A | Pune, Maharashtra, India / Gurgaon, Haryana, India / Bangalore, Karnataka, India / ... |
 | 02/04/2025 | [Senior Software Engineer, McMobile](https://algojobs.io/jobs/3047577) | [Jobber](https://algojobs.io/company/jobber/) | N/A | Remote in Canada |
 | 02/04/2025 | [Software Engineer II - Back-end](https://algojobs.io/jobs/3047404) | [Blueshift](https://algojobs.io/company/blueshift/) | N/A | Pune, India |
 | 02/04/2025 | [Ruby On Rails Software Engineer - 4 Day Week + Remote](https://algojobs.io/jobs/3045873) | [Laminar Projects](https://algojobs.io/company/laminarprojects/) | N/A | Philippines / India (Remote) |
 | 02/03/2025 | [HQ- Senior Frontend Engineer (EMEA remote)](https://algojobs.io/jobs/3565948) | [Job&Talent](https://algojobs.io/company/jobandtalent/) | N/A | Madrid HQ, ES (Remote) |
 | 01/31/2025 | [Staff Software Developer](https://algojobs.io/jobs/3015490) | [Vidyard](https://algojobs.io/company/vidyard/) | N/A | Remote, Canada |
-| 01/30/2025 | [Senior Software Engineer - Internal Tools](https://algojobs.io/jobs/3045392) | [StackAdapt](https://algojobs.io/company/stackadapt/) | N/A | Canada (Remote) |
-| 01/29/2025 | [Web3 Technical Lead (Fullstack)](https://algojobs.io/jobs/3336008) | [Legitimate](https://algojobs.io/company/legitimatetech/) | $180K - $230K | New York, NY (Remote) |
